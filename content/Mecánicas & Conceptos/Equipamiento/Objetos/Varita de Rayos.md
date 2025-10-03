@@ -1,0 +1,4 @@
+- Esta varita tiene 10 cargas y lanza un rayo de energía eléctrica, haciendo 1d12 de daño de rayo por carga.
+-  Cuando se quede sin cargas, esta varita se desintegra. 
+- Puedes intentar recuperar cargas realizando una tirada durante un descanso largo.
+- Con un 15 o más, la varita recupera 1d4 cargas.

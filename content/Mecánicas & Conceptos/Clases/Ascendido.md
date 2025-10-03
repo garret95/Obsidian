@@ -1,0 +1,7 @@
+Cuando un no muerto perdura, se transforma. Existe una minoría de entre los no muertos que cuenta con su propia conciencia, personalidad y costumbres. Dentro de esa minoría existen individuos aún más selectos. Criaturas que se han adaptado a su nueva no vida de una manera única, aprovechando sus defectos y virtudes al máximo, buscando volverse la versión definitiva de ellos mismos.
+## Especialización
+Independientemente de su raza original antes de renacer, los ascendidos poseen una serie de cualidades normalmente relacionadas con un uso extendido de su cuerpo. Existen rumores de seres que son capaces de aprovechar su cuerpo hasta niveles mórbidos. Otros hablan de criaturas capaces de sintonizar con los cadáveres. Se habla incluso de individuos con peligrosas habilidades extremadamente difíciles de predecir.
+## Diversidad
+No hay dos ascendidos iguales. Al igual que cualquier otra persona, cada uno tiene sus propios intereses, por lo que es difícil intentar categorizarlos. Lo único que los caracteriza generalmente es su inclinación al caos y el desorden, ya sea por su carácter veleidoso o una considerable falta de funciones cerebrales.
+### Creando un ascendido
+Los ascendidos son una clase muy moldeable debido a que no se rigen por ningún código ni motivación concreta, así que son perfectos para personajes no muertos sin grandes aspiraciones inmediatas o que no quieran complicarse mucho con conflictos entre estereotipos al hacerse multiclase. El único requisito que debe ser cumplido es ser un no muerto.

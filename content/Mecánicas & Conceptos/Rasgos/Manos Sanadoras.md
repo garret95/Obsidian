@@ -1,0 +1,2 @@
+- Como acción, puedes tocar a una criatura y hacer que recupere una cantidad de puntos de golpe igual a tu nivel. 
+- Una vez que usas este rasgo, no puedes volver a usarlo hasta que termines un descanso prolongado.

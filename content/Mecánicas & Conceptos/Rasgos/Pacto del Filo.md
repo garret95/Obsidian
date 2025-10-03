@@ -1,0 +1,10 @@
+- Puedes usar tu acción para crear un arma del pacto en tu mano vacía. 
+- Puedes elegir la forma que el arma cuerpo a cuerpo toma cada vez que la creas. Eres competente con ella mientras la blandes.
+- Esta arma cuenta como mágica para el propósito de traspasar resistencias e inmunidades contra ataques y daño no mágicos.
+- Tu arma de pacto desaparece si está a más de 5 pies de distancia de ti durante un minuto o más. 
+- También desaparece si usas este rasgo de nuevo, si descartas el arma (no requiere una acción), o si mueres.
+- Puedes transformar un arma mágica en tu arma de pacto haciendo un ritual especial mientras sostienes tu arma. 
+- Llevas a cabo el ritual durante una hora, que puede ser realizado durante un descanso corto, y luego puedes descartar el arma, colocándola en un espacio extradimensional, y aparece siempre que creas tu arma de pacto a partir de entonces. 
+- No puedes afectar un artefacto o un arma inteligente de esta forma. 
+- El arma deja de ser tu arma de pacto si mueres, si realizas el ritual de una hora en un arma diferente o si llevas a cabo un ritual de una hora para romper tu vínculo con ella. 
+- El arma aparece a tus pies si está en el espacio extradimensional cuando el vínculo se rompe.

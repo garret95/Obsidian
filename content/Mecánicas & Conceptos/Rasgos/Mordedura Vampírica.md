@@ -1,0 +1,7 @@
+- Tu mordisco con colmillos es un arma natural, que cuenta como un arma cuerpo a cuerpo simple con la que eres competente.
+- Añades tu modificador de Constitución, en lugar de tu modificador de Fuerza a las tiradas de ataque y daño cuando atacas con este mordisco. Inflige 1d4 de daño perforante con un golpe.
+- Mientras te falten la mitad o más de tus puntos de golpe, tienes ventaja en las tiradas de ataque que hagas con este mordisco.
+- Cuando atacas con este mordisco e impactas a una criatura que no es un Constructo o un No-muerto, puedes potenciarte de una de las siguientes formas que elijas:
+    - Recuperas puntos de vida iguales al daño perforante infligido por el mordisco.
+    - Obtienes una bonificación a la próxima prueba de habilidad o tirada de ataque que hagas; la bonificación es igual al daño perforante infligido por el mordisco.
+- Puedes potenciarte con este bocado un número de veces igual a tu bonificador de competencia, y recuperas todos los usos gastados cuando finalizas un descanso largo.

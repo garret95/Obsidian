@@ -1,0 +1,2 @@
+- Tus garras son armas naturales que puedes usar para realizar ataques sin armas. 
+- Si golpeas con ellas, infliges un daño cortante igual a 1d6 + tu modificador de Fuerza, en lugar del daño contundente normal para un ataque sin armas.

@@ -1,0 +1,2 @@
+- Tienes una velocidad de escalada igual a tu velocidad al caminar. 
+- Además, en el tercer nivel, puedes moverte hacia arriba, hacia abajo y a través de superficies verticales y boca abajo a lo largo de los techos, dejando tus manos libres.

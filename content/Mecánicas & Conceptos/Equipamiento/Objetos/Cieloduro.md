@@ -1,0 +1,1 @@
+Metal azulado similar al acero que empezó a formarse en las entrañas de [[Boros]] tras en encarcelamiento de [[Gryth'Zrix]]. Este material infernal tiene la propiedad de dar cierta resistencia contra efectos adversos relacionados con los poderes de ese demonio.

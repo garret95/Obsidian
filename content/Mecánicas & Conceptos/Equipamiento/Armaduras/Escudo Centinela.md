@@ -1,0 +1,1 @@
+- Mientras empuñes el escudo, tienes ventaja en las pruebas de Percepción y en las tiradas de iniciativa.

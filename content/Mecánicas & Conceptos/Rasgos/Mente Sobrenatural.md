@@ -1,0 +1,1 @@
+- Tienes ventaja en las tiradas de salvación de Constitución que hagas para mantener tu concentración en un hechizo.

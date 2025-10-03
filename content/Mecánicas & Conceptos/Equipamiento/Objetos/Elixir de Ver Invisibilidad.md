@@ -1,0 +1,1 @@
+- Al consumirlo, puedes ver a criaturas invisibles a 30 pies de ti durante 1 minuto.

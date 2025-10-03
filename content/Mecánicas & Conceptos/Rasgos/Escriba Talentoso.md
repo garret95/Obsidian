@@ -1,0 +1,1 @@
+- Tienes competencia con los suministros de calígrafo y los kits de falsificación. Cuando realizas una prueba de habilidad usando alguna de estas herramientas, tira 1d4 y añádelo al resultado.

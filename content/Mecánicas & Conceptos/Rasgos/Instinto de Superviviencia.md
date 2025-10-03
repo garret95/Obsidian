@@ -1,0 +1,1 @@
+- Gracias a tu conexión mística con la naturaleza, adquieres competencia con una de las siguientes habilidades de tu elección: Tacto con animales, Medicina, Naturaleza, Percepción, Sigilo o Supervivencia.

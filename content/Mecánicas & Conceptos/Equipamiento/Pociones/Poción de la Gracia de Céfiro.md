@@ -1,0 +1,1 @@
+- Obtienes +1 en las tiradas de salvación de Destreza y puedes volar 10 pies como acción adicional durante 1 minuto.

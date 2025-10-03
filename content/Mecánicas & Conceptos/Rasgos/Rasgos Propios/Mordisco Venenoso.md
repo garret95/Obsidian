@@ -1,0 +1,2 @@
+- Al morder a una criatura, la criatura objetivo debe realizar con éxito una tirada de salvación de Constitución CD 13 o recibe 1d6 puntos de daño por veneno. 
+- Si te muerdes a ti mismo, debes realizar con éxito una tirada de salvación de Constitución CD 13 o recibes 1d6 puntos de daño por veneno.

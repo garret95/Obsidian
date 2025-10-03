@@ -1,0 +1,2 @@
+- Obtienes la habilidad de utilizar tu Forma Salvaje en tu turno como una acción adicional, en lugar de como una acción normal. 
+- Además, mientras te estás transformado en la Forma Salvaje puedes utilizar una acción adicional para gastar un espacio de conjuro y recuperar 1d8 puntos de golpe por nivel del espacio de conjuro gastado.

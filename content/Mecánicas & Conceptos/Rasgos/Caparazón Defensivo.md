@@ -1,0 +1,3 @@
+- Puedes retirarte a tu caparazón como una acción. 
+- Hasta que emerjas, obtienes una bonificación de +4 a la CA y tienes ventaja en las tiradas de salvación de Fuerza y Constitución. 
+- Mientras estás en tu caparazón, estás boca abajo, tu velocidad es 0 y no puede aumentar, tienes desventaja en las tiradas de salvación de Destreza, no puedes tomar reacciones y la única acción que puedes tomar es una acción adicional para salir de tu caparazón.

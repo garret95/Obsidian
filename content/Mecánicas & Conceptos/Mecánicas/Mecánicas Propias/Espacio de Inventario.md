@@ -1,0 +1,13 @@
+Espacio de Inventario:
+- Tienes 20 espacios de inventario, y obtienes +4 por cada modificador de Fuerza positivo que tengas, o -4 por cada modificador de Fuerza negativo. 
+- Cada objeto que tengas encima pesa 1 espacio de inventario.
+- Tu equipamiento actual (armas, armadura, accesorios) no cuenta para tu carga actual. Lo mismo pasa con las monedas que lleves encima, a no ser que la cantidad sea demasiado grande (a decisión del DM).
+- Ciertos objetos contarán como un solo espacio de inventario hasta que lleguen a cierta cantidad. Estos objetos y sus límites son los siguientes: 
+	- Tipo de munición: 50 unidades.
+	- Raciones: 10 unidades.
+	- Cuerda: 30 pies.
+	- Objetos pequeños/ligeros: 20 unidades.
+- Puedes llevar encima tantas cosas como quieras, pero sufres penalizaciones al llevar peso por encima de tu carga máxima:  
+    - 1 o más espacios extra: Tu velocidad se reduce a la mitad.
+    - 10 o más espacios extra: Obtienes desventaja en las tiradas de Destreza, además del penalizador anterior.
+    - 20 o más espacios extra: Tu velocidad se reduce a 0, además de los penalizadores anteriores.

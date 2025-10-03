@@ -1,0 +1,2 @@
+- Puedes atacar dos veces, en lugar de una, siempre que uses la acción de Atacar en tu turno. 
+- El número de ataques aumenta a tres cuando alcanzas el nivel 11 en esta clase y a cuatro cuando alcanzas el nivel 20.

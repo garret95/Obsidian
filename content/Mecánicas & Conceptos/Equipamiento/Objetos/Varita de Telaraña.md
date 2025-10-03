@@ -1,0 +1,5 @@
+- Requiere vinculación con un lanzador de conjuros.
+- Esta varita tiene 7 cargas . 
+- Mientras la empuñes, puedes usar una acción para gastar 1 o más de sus cargas en lanzar el conjuro Telaraña ([[Web]]) desde ella, con salvación CD 15. 
+- La varita recupera 1d20 + 1 cargas empleadas cada día, al amanecer. 
+- Si gastas la última carga, tira 1d20. Si obtienes un 1, la varita se convierte en cenizas y es destruida.

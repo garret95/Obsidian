@@ -1,0 +1,3 @@
+- Durante tu entrenamiento de pícaro aprendiste la jerga de los ladrones, una mezcla secreta de dialectos, argot y código que te permite esconder mensajes en lo que aparentemente sería una conversación normal. 
+- Solo otra criatura que conozca la jerga de los ladrones puede entender esos mensajes. 
+- Requiere cuatro veces más tiempo transmitir un mensaje de esta forma que hacerlo de manera convencional.

@@ -1,0 +1,1 @@
+- Conoces el truco Mensaje ([[Message]]). Usas tu Inteligencia para lanzarlo.

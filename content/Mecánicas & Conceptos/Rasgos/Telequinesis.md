@@ -1,0 +1,4 @@
+Aprendes a mover las cosas con la mente, obtienes los siguientes beneficios: 
+- Aumentas tu inteligencia, sabiduría o carisma en 1, hasta un máximo de 20. 
+- Aprendes el truco Mano del Mago. Puedes lanzarlo sin componentes verbales o somáticos, y puedes hacer que la mano espectral sea invisible. Si ya conoces este hechizo, su alcance aumenta en 30 pies cuando lo lanzas. Tu habilidad para lanzar este hechizo es la aumentada por esta dote. 
+-  Como acción adicional, puedes intentar empujar telequinéticamente a una criatura que puedas ver a 30 pies de ti. Cuando lo haces, el objetivo debe tener éxito en una tirada de salvación de Fuerza (CD 8 + tu bono de competencia + el modificador de de la característica que aumentaste por esta dote) o ser movido 5 pies hacia ti o lejos de ti. Una criatura puede fallar voluntariamente esta salvación.

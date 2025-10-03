@@ -1,0 +1,1 @@
+Cuando realices una tirada de Inteligencia (Historia) relacionada con el origen de trabajos en piedra, eres considerado competente en la habilidad de Historia y agregas el doble de tu bono de competencia a la tirada, en lugar del bono de competencia normal.

@@ -1,0 +1,1 @@
+- Obtienes ventaja en las tiradas de salvación contra efectos que intenten influir o manipular tu mente.

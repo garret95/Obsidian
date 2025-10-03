@@ -1,0 +1,5 @@
+El tiempo dedicado a dominar las artes culinarias ha valido la pena, otorgándole los siguientes beneficios:
+- Aumentas tu puntuación de Constitución o Sabiduría en 1, hasta un máximo de 20.
+- Adquieres competencia con los utensilios de cocina si no la tenías ya.
+- Como parte de un descanso corto, puedes cocinar comida especial, siempre que tengas ingredientes y utensilios de cocina a mano puedes preparar suficiente de este alimento para un número de criaturas igual a 4 + tu bono de competencia. Al final del descanso corto, cualquier criatura que coma la comida y gaste uno o más Dados de Golpe para recuperar puntos de golpe recuperan 1d8 extra de puntos de golpe.
+- Con una hora de trabajo o cuando terminas un descanso largo, puedes cocinar una cantidad de golosinas igual a tu bono de competencia. Estas delicias especiales duran 8 horas después de ser cocinadas. Una criatura puede usar una acción adicional para comer una de estas golosinas y ganar puntos de golpe temporales iguales a tu bono de competencia.

@@ -1,0 +1,1 @@
+- Tienes ventaja en las tiradas de salvación de Inteligencia, Sabiduría y Carisma que hagas contra magia.

@@ -1,0 +1,1 @@
+- Su portador no necesita ser competente con este tipo de arma para poder usarla con competencia.

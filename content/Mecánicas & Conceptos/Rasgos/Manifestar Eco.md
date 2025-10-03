@@ -1,0 +1,11 @@
+- Puedes usar una acción adicional para manifestar mágicamente un eco de ti mismo en un espacio desocupado que puedas ver a 15 pies de ti. 
+- Este eco es una imagen mágica, translúcida y gris de ti que dura hasta que se destruye, hasta que lo descartas como una acción adicional, hasta que manifiestas otro eco o hasta que quedas incapacitado. 
+- Tu eco tiene CA 14 + tu bono de competencia, 1 punto de golpe e inmunidad a todas las condiciones. 
+- Si tiene que hacer una tirada de salvación, usa tu bono de tirada de salvación para la tirada. 
+- Tiene el mismo tamaño que tú y ocupa su espacio. 
+- En su turno, puedes ordenar mentalmente al eco que se mueva hasta 30 pies en cualquier dirección (no se requiere ninguna acción). 
+- Si tu eco está a más de 30 pies de ti al final de tu turno, se destruye. 
+- Puedes usar el eco de las siguientes maneras: 
+    - Como acción adicional, puedes teletransportarte, cambiando mágicamente de lugar con tu eco a un costo de 15 pies de tu movimiento, sin importar la distancia entre los dos. 
+    - Cuando realizas la acción de Atacar en tu turno, cualquier ataque que hagas con esa acción puede originarse desde tu espacio o desde el espacio del eco. Haces esta elección para cada ataque. 
+    - Cuando una criatura que puedes ver a 5 pies de tu eco se mueve al menos a 5 pies de ella, puedes usar tu reacción para hacer un ataque de oportunidad contra esa criatura como si estuvieras en el espacio del eco.

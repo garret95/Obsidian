@@ -1,0 +1,2 @@
+- Una vez por turno cuando golpeas a una criatura con tu arma de pacto, puedes gastar una ranura de conjuro de Brujo para infligir1d8 de daño de fuerza adicional al objetivo, más otro 1d8 por nivel del espacio de conjuro.
+- Puedes derribar al objetivo con el golpe si es de tamaño enorme o más pequeño.

@@ -1,0 +1,2 @@
+- Puedes lanzar el conjuro Comprender Idiomas ([[Comprehend Languages]]) una vez con este rasgo, y puedes volver a lanzarlo al realizar un descanso largo. 
+- Usas tu Inteligencia para lanzarlo.

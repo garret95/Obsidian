@@ -1,0 +1,5 @@
+- Como acción adicional, puedes introducir a tu Lumen en un arma que estés usando durante 1 minuto. 
+- Del arma brotan unas llamas del mismo color que tu compañero y, cuando impactes con ella a una criatura, esta recibe 1d4 puntos de daño por fuego. 
+- Si la criatura es inmune al daño por fuego, recibe el daño como si no fuera inmune. 
+- Puedes usar este rasgo un número de veces igual a tu bono de competencia tras cada descanso largo. 
+- Este efecto se amplía al elegir una vía al nivel 2.

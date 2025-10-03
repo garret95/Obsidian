@@ -1,0 +1,5 @@
+- A partir del tercer nivel, puedes usar tu acción para desatar la energía divina dentro de ti, haciendo que tus ojos brillen y dos alas luminosas e incorpóreas broten de tu espalda. 
+- Tu transformación dura 1 minuto o hasta que la termines como acción adicional. 
+- Durante la duración, tienes una velocidad de vuelo de 30 pies, y una vez en cada uno de tus turnos, puedes infligir daño radiante adicional a un objetivo cuando le infliges daño con un ataque o un hechizo. 
+- El daño radiante adicional es igual a tu nivel. 
+- Una vez que usas este rasgo, no puedes volver a usarlo hasta que termines un descanso prolongado.

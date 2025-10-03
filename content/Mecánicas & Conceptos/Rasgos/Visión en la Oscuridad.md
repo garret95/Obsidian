@@ -1,0 +1,2 @@
+- Puedes ver la luz tenue a 60 pies ti como si fuera luz brillante, y la oscuridad como si fuera luz tenue. 
+- No puedes distinguir colores en la oscuridad, solo los tonos de gris.

@@ -1,0 +1,4 @@
+- Como acción, puedes transformar tu apariencia en la de un humano o volver a tu forma original. 
+- Tu disfraz humano siempre tiene la misma apariencia e imita cualquier nuevo cambio que reciba tu cuerpo, como heridas o tatuajes.
+- Cualquier criatura que saque 20 o más en una prueba de Perspicacia mientras seas humano percibe que no es tu verdadera forma.
+- Si dejas de estar en contacto con el anillo durante 48 horas, si tienes apariencia humana, la ilusión se desvanece.

@@ -1,0 +1,1 @@
+- Cuando un atacante que puedes ver te golpea con un ataque, puedes usar tu reacción para reducir a la mitad el daño que sufras.

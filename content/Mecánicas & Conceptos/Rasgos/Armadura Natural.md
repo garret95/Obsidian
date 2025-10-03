@@ -1,0 +1,3 @@
+- Debido a tu caparazón y a la forma de tu cuerpo, no eres apto para llevar armadura. 
+- Sin embargo, su caparazón proporciona una amplia protección; te da una CA base de 17 (tu modificador de Destreza no afecta este número). 
+- No obtienes ningún beneficio por usar armadura, pero si estás usando un escudo, puedes aplicar el bono del escudo de forma normal.

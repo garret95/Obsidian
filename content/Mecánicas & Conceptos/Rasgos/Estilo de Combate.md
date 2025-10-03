@@ -1,0 +1,15 @@
+Adoptas un estilo particular de combate como especialidad. Elige una de las siguientes opciones. No puedes escoger un Estilo de Combate más de una vez, incluso si tienes la opción de escoger otro más adelante.
+- A distancia
+    - Ganas un bonificador de +2 a las tiradas de ataque que hagas con armas a distancia. 
+- Defensa. 
+    - Mientras lleves puesta una armadura ganas un +1 la CA.
+- Duelista 
+    - Cuando llevas un arma cuerpo a cuerpo en una mano y ningún arma más, ganas un bonificador de +2 a las tiradas de daño con esa arma.
+- Lucha con Arma a Dos Manos 
+    - Cuando obtienes un 1 o un 2 en un dado de daño con un arma a dos manos, puedes volver a realizar la tirada de daño y debiendo usar la nueva tirada, incluso si vuelve a ser un 1 o un 2. 
+    - El arma debe ser un arma a dos manos o tener la propiedad versátil para ganar este beneficio.
+- Protección 
+    - Cuando una criatura que puedes ver ataca a un objetivo que no eres tú y está a 5 pies o menos de ti, puedes usar tu reacción para hacer que el enemigo tenga desventaja en la tirada de ataque. 
+    - Debes estar usando un escudo.
+- Lucha con Dos Armas 
+    - Cuando luchas con el estilo de lucha de dos armas, puedes añadir tu modificador de característica al daño del segundo ataque.

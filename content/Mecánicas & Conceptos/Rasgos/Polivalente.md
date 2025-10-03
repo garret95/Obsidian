@@ -1,0 +1,1 @@
+- Puedes añadir la mitad de tu bonificador de competencia, redondeado hacia abajo, a cualquier prueba de habilidad que realices que no incluya ya tu bonificador de competencia.

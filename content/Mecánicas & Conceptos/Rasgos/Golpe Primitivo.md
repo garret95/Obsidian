@@ -1,0 +1,1 @@
+- Los ataques de tu forma bestial cuentan como mágicos a la hora de superar la resistencia e inmunidad para ataques y daño no mágico.
