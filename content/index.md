@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: El Adalid del Demonio
 ---
 
 This is a blank Quartz installation.
