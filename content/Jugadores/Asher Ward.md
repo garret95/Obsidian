@@ -5,7 +5,7 @@ Raza: Nacido del vacío (Disfraz humano)
 Género: Hombre
 Nivel: "8"
 Bonificador por competencia: "3"
-ac: "18"
+ac: "19"
 hp: 65
 modifier: 1
 Velocidad: "30"
@@ -46,6 +46,8 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 - [[Broche de Blindaje]].
 - [[Ring of Evasion]].
 - [[Adamantine Armor]].
+- [[Anillo de Protección +1]].
+- [[Saeta Azul]].
 
 # 5. Recursos
 

@@ -34,9 +34,10 @@ Cuidador de reliquias y aventurero.
 # 4. Posesiones
 
 - 2 llaves oníricas: La [[Cabra]] y el [[Ave]].
-- [[Colgante de Resisntencia al Fuego]].
+- [[Colgante de Resistencia al Fuego]].
 - [[Coraza del Filo Radiante]].&nbsp; <input type="checkbox">
 - [[Aria Danzante]].&nbsp; <input type="checkbox">
+- [[Muñequera de Duelista]].
 
 # 5. Recursos
 

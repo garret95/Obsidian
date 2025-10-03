@@ -5,7 +5,7 @@ Raza: Aasimar
 Género: Hombre
 Nivel: "8"
 Bonificador por competencia: "3"
-ac: "18"
+ac: "20"
 hp: 66
 modifier: 1
 Velocidad: "30"

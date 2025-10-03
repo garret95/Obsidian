@@ -1,0 +1,1 @@
+- Obtienes +1 en tu Clase de Armadura.
