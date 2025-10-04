@@ -1,0 +1,1 @@
+- Cuando recibas daño por fuego, reduces el daño recibido en 1.

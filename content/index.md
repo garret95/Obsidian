@@ -2,5 +2,4 @@
 title: El Adalid del Demonio
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bienvenidos al repositorio del Adalid del Demonio, donde encontrarás todo sobre los personajes, lugares, objetos y mecánicas de esta campaña.

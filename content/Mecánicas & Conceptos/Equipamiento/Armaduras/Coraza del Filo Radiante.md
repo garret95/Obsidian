@@ -1,4 +1,4 @@
-![[Coraza del Filo Radiante.jpg | hmed]]
+![[Coraza del Filo Radiante.jpg| hmed]]
 Armadura diseñada por [[Gomadin]], el cual se la entregó a [[Mongo Jubro]] con el fin de agradecer a los héroes de [[Armarea]] por su rescate en la [[Cueva Eléctrica]]. 
 - Armadura de Placas: CA 14 + Destreza (máximo 2).
 - Obtienes resistencia al daño por relámpago.

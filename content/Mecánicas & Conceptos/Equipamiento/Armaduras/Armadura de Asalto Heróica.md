@@ -1,4 +1,4 @@
-![[Armadura de Asalto Heróica.jpg|hmed]]
+![[Armadura de Asalto Heróica.png|hmed]]
 Armadura diseñada por [[Gomadin]], el cual se la entregó a [[Asher Ward]] con el fin de agradecer a los héroes de [[Armarea]] por su rescate en la [[Cueva Eléctrica]].  Los abundantes materiales entregados ayudaron a crear una armadura de una calidad superior a las otras.
 - Armadura de Placas: CA 18, desventaja en Sigilo.
 - Obtienes resistencia al daño por fuego y relámpago.
