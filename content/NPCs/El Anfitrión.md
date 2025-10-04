@@ -110,6 +110,4 @@ lair_actions:
 
 # 10. Recompesas 
 
-- Bastón Extensible
-
-![[]]
+- 
