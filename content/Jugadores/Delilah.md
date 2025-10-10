@@ -48,6 +48,7 @@ Aventurera.
 - [[Agujero Portátil]].
 - [[Circlet of Blasting]].
 - [[Mantle of Spell Resistance]].
+- [[Garras de la Luna Sangrientra]].
 
 # 6. Rasgos
 

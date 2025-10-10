@@ -49,6 +49,7 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 - [[Adamantine Armor]].
 - [[Anillo de Protección +1]].
 - [[Saeta Azul]].
+- [[Corazón de Thulgrak]].
 
 # 6. Rasgos
 
