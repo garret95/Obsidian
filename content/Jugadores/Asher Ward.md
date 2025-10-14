@@ -9,7 +9,7 @@
 - Nivel: 8
 - Bonificador por competencia: 3
 - Clase de Armadura: 19
-- Puntos de Golpe: 65
+- Puntos de Golpe: 73
 - Velocidad: 30
 - FUE: 16 (+3)
 - DES: 15 (+2)
@@ -73,7 +73,7 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 - [[Oleada de Acción]].
 - [[Manifestar Eco]].
 - [[Desatar Eco]] .
-- [[Vacío del Vacío]].
+- [[Guardián Implacable]].
 
 ![[Asher Ward Nacido del Vacío.png]]
 ![[Eco de Asher Ward.png]]

@@ -1,0 +1,2 @@
+- Cuando impactas a una criatura con un ataque cuerpo a cuerpo con un arma a dos manos, puedes elegir a un aliado que puedas ver a 10 pies o menos de ti. La Clase de Armadura de ese aliado aumenta en 2 hasta el inicio de tu siguiente turno.
+- Cuando una criatura que esté a 5 pies de ti ataca a un aliado, puedes usar tu reacción para interponerte y dar al ataque enemigo desventaja. Si el ataque falla puedes, como parte de la misma reacción, hacer un ataque con tu arma contra el atacante.

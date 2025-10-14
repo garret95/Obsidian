@@ -1,0 +1,3 @@
+# Descripción
+
+Edificio creado por Arthur en los albores de la creación de [[Lathur]], ubicado en [[Selid]]. Sirve tanto para investigar y experimentar como para servir de puente entre distintas dimensiones. Está completamente sellado, y solo se puede entrar colocando la [[Losa de Tiempo]] y la [[Losa de Espacio]] en unas ranuras. Una vez dentro, no puede volverse a salir. [[Kurayami]] se encuentra apresada dentro por desobedecer a [[Arthur Larios]]. Investigadores de gran nivel investigan aqui. Una de ellos fue [[Delilah]].

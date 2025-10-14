@@ -15,7 +15,7 @@ tags:
 - Nivel: 8
 - Bonificador por competencia: 3
 - Clase de Armadura: 18
-- Puntos de Golpe: 67
+- Puntos de Golpe: 75
 - Bonificador por Competencia: 3
 - Velocidad: 35
 - FUE: 8 (-1)
@@ -49,6 +49,8 @@ Aventurera.
 - [[Circlet of Blasting]].
 - [[Mantle of Spell Resistance]].
 - [[Garras de la Luna Sangrientra]].
+- [[Armadura de la Medianoche]].
+- [[Cáliz de la Reanimación Menor]].
 
 # 6. Rasgos
 

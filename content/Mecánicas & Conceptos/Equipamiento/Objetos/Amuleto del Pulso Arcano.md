@@ -1,0 +1,3 @@
+- Requiere sintonización con un lanzador de conjuros.
+- Obtienes +1 en las tiradas de ataque de conjuros.
+- Una vez por descanso corto, cuando lances un conjuro de nivel 1 o superior que haga daño, puedes añadir 1d8 del mismo tipo de daño a uno de los objetivos.

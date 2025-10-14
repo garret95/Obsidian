@@ -9,7 +9,7 @@
 - Nivel: 8
 - Bonificador por competencia: 3
 - Clase de Armadura: 20
-- Puntos de Golpe: 66
+- Puntos de Golpe: 74
 - Velocidad: 30
 - FUE: 16 (+3)
 - DES: 13 (+1)
@@ -49,6 +49,9 @@ Guerrero y aventurero.
 - [[Boots of Elvenkind]].
 - [[Periapt of Wound Closure]].
 - [[Dagger of Venom]].
+- [[Cota de Malla del Errante]].
+- [[Amuleto del Pulso Arcano]].
+- [[Filo del Sol Negro]].
 
 # 6. Rasgos
 - [[Rango Militar]].

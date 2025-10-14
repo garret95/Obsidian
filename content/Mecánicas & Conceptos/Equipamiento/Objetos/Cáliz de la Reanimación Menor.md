@@ -1,0 +1,2 @@
+- Si viertes el contenido de una poción de curación en su interior, una criatura que consuma su contenido recupera el doble de los puntos de golpe que recuperaría con esa poción.
+- Una vez por descanso largo, si una criatura muere a 10 pies del cáliz, puedes usar tu reacción para que libere un destello y esa criatura sea estabilizada en su lugar.
