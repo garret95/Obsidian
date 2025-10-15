@@ -43,5 +43,3 @@ Es fuerte y se desenvuelve igual de bien tanto en tierra como en el agua.
 # 8. Recursos
 
 Como contramaestre del [[Gloria Invicta]], goza de buena imagen. Tiene fama de severa, lo que ayuda a mejorar su influencia.
-
-![[Temeri.png]]

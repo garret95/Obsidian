@@ -43,5 +43,3 @@ Anteriormente tenía los poderes de un [[luminario]], pero está mutando lentame
 # 8. Recursos
 
 Como segundo al mando de la sede de los luminarios, tiene mucha influencia en [[Armarea]].
-
-![[Armando.jpg]]

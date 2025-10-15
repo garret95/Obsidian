@@ -38,10 +38,8 @@ Tenía en su posesión la [[Pacificadora de Lathander]] y los [[Grilletes de Fe 
 
 # 7. Habilidades
 
-Aunque debilitado por su aprisionamiento, es resiliente y puede regenerarse con facilidad.
+Aunque debilitada por su aprisionamiento, es resiliente y puede regenerarse con facilidad.
 
 # 8. Recursos
 
 Es la adalid de un dios, lo que le da mucho poder entre la gente.
-
-![[Maiyiel.png]]

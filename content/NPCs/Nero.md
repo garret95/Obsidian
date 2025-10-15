@@ -43,5 +43,3 @@ Muy tenaz.
 # 8. Recursos
 
 Tiene a sus compañeros para que le ayuden.
-
-![[Nero.png]]

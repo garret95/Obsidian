@@ -45,5 +45,3 @@ Muy servicial.
 # 8. Recursos
 
 Anteriormente tenía muchos contactos, pero tras el fatídico día o ha perdido el contacto con ellos o están muertos.
-
-![[Ricardo.png]]

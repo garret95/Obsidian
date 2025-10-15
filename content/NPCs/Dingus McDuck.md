@@ -43,5 +43,3 @@ Es hábil con la magia. Además, puede volar y se le da bien nadar.
 # 8. Recursos
 
 Tiene cierto renombre en [[Boros]] por ser uno de sus salvadores.
-
-![[Dingus McDuck.jpg]]

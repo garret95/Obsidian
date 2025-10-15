@@ -45,5 +45,3 @@ Tiene un cerebro muy ágil al cual no le faltas ideas de nuevos inventos que cre
 # 8. Recursos
 
 Los gobernantes de [[Armarea]] cuentan con él para que les proporcione nuevos inventos de vez en cuando, y con los que ya ha proporcionado se ha ganado fama en la ciudad.
-
-![[Gomadin.png]]

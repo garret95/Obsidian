@@ -43,9 +43,3 @@ Es una persona fuerte, hábil y carismática.
 # 8. Recursos
 
 Es famoso por sus hazañas, por lo que es una persona bastante influyente. Tiene un pacto con el Insondable que le da poderes superiores.
-
-# 9. Estadísticas 
-
-
-
-![[Sir Barion.png]]

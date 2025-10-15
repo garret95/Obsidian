@@ -43,5 +43,3 @@ Tiene buen don para dirigir. Además, tiene poderes de adivinación como los dem
 # 8. Recursos
 
 Extremadamente infuyente en [[Boros]].
-
-![[Mrai.png]]

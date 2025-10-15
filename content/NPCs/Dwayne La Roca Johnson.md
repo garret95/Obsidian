@@ -43,5 +43,3 @@ Bastante fuerte y posee habilidade poco comunes entre los paladines.
 # 8. Recursos
 
 Se ha ganado cierta infamia en Armarea.
-
-![[Dwayne la Roca Johnson.png]]

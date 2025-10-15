@@ -43,5 +43,3 @@ Puede mantener una posición durante mucho tiempo.
 # 8. Recursos
 
 Tiene muchos contactos entre los de su gremio.
-
-![[Arbusto.png]]

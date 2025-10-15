@@ -41,5 +41,3 @@ Es dotada con la magia y, teniendo sangre del demonio de las posibilidades, podr
 # 8. Recursos
 
 Actualmentr cuenta con el apoyo de su pueblo tras haber acabado con [[Gryth'Zrix]].
-
-![[Naya.png]]

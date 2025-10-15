@@ -43,5 +43,3 @@ Puede intentar predecir el futuro, puede alterar el presente y puede viajar al p
 # 8. Recursos
 
 Tiene un culto dedicado a su nombre.
-
-![[Gryth'Zrix.png]]

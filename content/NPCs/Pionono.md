@@ -45,5 +45,3 @@ Puede desacoplar sus extremidades y controlarlas. Posee una gran fuerza bruta a 
 # 8. Recursos
 
 Goza de gran riqueza y del poder que le otorga ser uno de los tres gobernantes.
-
-![[Pionono.png]]

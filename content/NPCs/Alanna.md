@@ -24,7 +24,7 @@ Optimista y dispuesta a ayudar al prójimo. Siente debilidad por los desamparado
 
 # 3. Historia
 
-Es la descendiente de una de los cuatro fundadores de [[Armarea]]. Empezó como una aventurera más, pero ganó tanta notoriedad que pasó a ser la maestra del gremio de aventureros de la ciudad. Con el poder que ostenta, se ha covnertido además en una de los tres actuales gobernadores, junto con [[Kaleas]] y [[Pionono]]. 
+Es la descendiente de una de los cuatro fundadores de [[Armarea]]. Empezó como una aventurera más, pero ganó tanta notoriedad que pasó a ser la maestra del gremio de aventureros de la ciudad. Con el poder que ostenta, se ha convertido además en una de los tres actuales gobernadores, junto con [[Kaleas]] y [[Pionono]]. 
 
 # 4. Vida Personal
 
@@ -45,5 +45,3 @@ Muy ágil tanto física como mentalmente. Adepta a la magia.
 # 8. Recursos
 
 Tiene una gran influencia dentro de [[Armarea]]. Su palabra es ley para muchos.
-
-![[Alanna.png]]

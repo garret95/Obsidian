@@ -45,5 +45,3 @@ Fuerte y grande.
 # 8. Recursos
 
 Como general del ejército de [[Armarea]], tiene mucha autoridad en la ciudad.
-
-![[Julius.png]]

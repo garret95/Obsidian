@@ -43,6 +43,3 @@ Posee las habilidades de un [[Lumen]] de destino.
 # 8. Recursos
 
 Gracias a su vínculo con [[Asher Ward]], le otorga poderes especiales.
-
-![[Lumen.png]]
-![[Lumen de Destino.png]]

@@ -43,5 +43,3 @@ Tiene poderes mágicos muy desarrollados, y puede predecir el futuro en forma de
 # 8. Recursos
 
 Es el hombre más influyente de todo [[Boros]].
-
-![[Seb.png]]

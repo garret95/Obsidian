@@ -43,5 +43,3 @@ Tiene dotes como explorador
 # 8. Recursos
 
 Se ha labrado infamia en [[Armarea]].
-
-![[Bor.png]]

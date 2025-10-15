@@ -45,5 +45,3 @@ Fuerte y resistente.
 # 8. Recursos
 
 Puede hablar con los [[Lumen]] y posee mucha influencia en la ciudad.
-
-![[Kaleas.png]]

@@ -45,5 +45,3 @@ Posee una habilidad con la carpintería como pocos. Tiene un gran olfato para lo
 # 8. Recursos
 
 Es posiblemente una de las personas más ricas de toda la ciudad. Debido a esto y a su puesto de trabajo, tiene mucha influencia y una gran cantidad de contactos de todo tipo.
-
-![[Popo.png]]

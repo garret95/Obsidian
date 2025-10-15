@@ -45,5 +45,3 @@ Se mueve como pez en el agua por los bosques. Buena trepadora y tiradora. Puede 
 # 8. Recursos
 
 Tiene contactos en el círculo de druidas.
-
-![[Renia.png]]

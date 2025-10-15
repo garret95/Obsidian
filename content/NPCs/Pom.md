@@ -44,5 +44,4 @@ Es muy resistente y fuerte, sobretodo cuando se transformó.
 
 Su único recurso fiable es su fuerza.
 
-![[Pom.png]]
 ![[Pom Mutado.png]]

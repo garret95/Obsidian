@@ -43,5 +43,3 @@ Muy hábil cocinando y en el agua.
 # 8. Recursos
 
 No tiene muchos recursos más allá del dinero que tiene guardado.
-
-![[Cumillion.png]]

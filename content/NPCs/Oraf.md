@@ -45,5 +45,3 @@ Extremadamente diligente en su trabajo.
 # 8. Recursos
 
 Se ha ganado el respeto de los marineros por su posición tras tantos años.
-
-![[Oraf.png]]

@@ -45,4 +45,3 @@ Posee las habilidades de un [[Lumen]] de trascendencia.
 Gracias a su vínculo con [[Tenshi Senshi]], le otorga poderes especiales.
 
 ![[Lumen.png]]
-![[Lumen de Trascendencia.png]]

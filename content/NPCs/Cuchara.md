@@ -45,5 +45,3 @@ Es pequeño y ágil.
 # 8. Recursos
 
 Tiene la influencia de una lechuga.
-
-![[Cuchara.png]]

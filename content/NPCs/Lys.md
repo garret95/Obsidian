@@ -43,6 +43,3 @@ Posee las habilidades de un [[Lumen]] de concordia.
 # 8. Recursos
 
 Gracias a su vínculo con [[Kaleas]], le otorga poderes especiales.
-
-![[Lumen.png]]
-![[Lys.jpg]]

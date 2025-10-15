@@ -43,5 +43,3 @@ Tiene poderes sagrados y es un experto en la elaboración de cerveza.
 # 8. Recursos
 
 Tiene un gran renombre como cervecero. También tiene cierta fama por haber acabado con la [[langosta reina]].
-
-![[Elam.png]]

@@ -43,5 +43,3 @@ Tiene bastante fuerza, puede desacoplarse partes de su cuerpo a voluntad y muta 
 # 8. Recursos
 
 No tiene mucho en su favor, aunque con su fuerza y su flexibilidad ante las situaciones suele estar servido.
-
-![[Stubbs.png]]
