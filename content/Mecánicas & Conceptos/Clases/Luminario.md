@@ -1,3 +1,5 @@
+![[Luminario.png]]
+
 Allende del mar, en una tierra lejana, se encuentra el bosque Lumen. En él habitan los Lumen, unas misteriosas criaturas con la forma de una pequeña llama blanca. Estos excepcionales seres, tímidos por naturaleza, suelen ocultarse de aquellos que se adentran en el bosque. Algo peculiar acerca de ellos es su capacidad de alimentarse por medio de la fuerza de voluntad y la convicción de un individuo, lo que les hace buscar activamente una persona digna con la que forjar un vínculo a través de acordes. Un acorde es una promesa o juramento realizado junto al Lumen y, una vez realizado, la persona vinculada va ganando progresivamente más poder.
 ## Senda Personal
 Los acordes de cada luminario son un mundo en sí mismo, pues suelen tratar juramentos, metas y aspiraciones personales. A medida que mantienen su palabra, los luminarios avanzan en su senda y realizan nuevos acordes diferentes.

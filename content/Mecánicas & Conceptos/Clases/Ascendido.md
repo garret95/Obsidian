@@ -1,3 +1,5 @@
+![[Ascendido.png]]
+
 Cuando un no muerto perdura, se transforma. Existe una minoría de entre los no muertos que cuenta con su propia conciencia, personalidad y costumbres. Dentro de esa minoría existen individuos aún más selectos. Criaturas que se han adaptado a su nueva no vida de una manera única, aprovechando sus defectos y virtudes al máximo, buscando volverse la versión definitiva de ellos mismos.
 ## Especialización
 Independientemente de su raza original antes de renacer, los ascendidos poseen una serie de cualidades normalmente relacionadas con un uso extendido de su cuerpo. Existen rumores de seres que son capaces de aprovechar su cuerpo hasta niveles mórbidos. Otros hablan de criaturas capaces de sintonizar con los cadáveres. Se habla incluso de individuos con peligrosas habilidades extremadamente difíciles de predecir.
