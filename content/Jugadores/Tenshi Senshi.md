@@ -83,3 +83,4 @@ Guerrero y aventurero.
 - [Castigo Furioso](https://dnd5e.wikidot.com/spell:wrathful-smite).
 
 ![[Tenshi Senshi.png]]
+![[Tenshi Senshi Oscuro.png]]

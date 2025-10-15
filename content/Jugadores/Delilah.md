@@ -73,3 +73,4 @@ Aventurera.
 
 - [Conjuros de Druida](https://nivel20.com/games/dnd-5/rulebooks/4-srd-5-edicion/spell_lists/5-conjuros-de-druida) (hasta nivel 4).
 
+![[Delilah Investigadora de Arthur.png]]
