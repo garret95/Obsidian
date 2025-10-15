@@ -43,3 +43,5 @@ Posee las habilidades normales de un monje y un ascendido, potenciadas por el po
 # 8. Recursos
 
 Como esbirro de alto nivel del séquito de [[Arthur Larios]] tiene total control sobre los [[Zombies]] menores.
+
+![[Lucciane.png]]
