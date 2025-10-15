@@ -1,0 +1,1 @@
+- Durante 1 minuto, tus ataques cuerpo a cuerpo infligen 1d6 de daño de fuego adicional.

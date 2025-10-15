@@ -1,0 +1,2 @@
+- Recuperas 4d8+8 puntos de golpe. 
+- Durante 1 minuto, siempre que recibas curación, recuperas 5 puntos de golpe adicionales.
