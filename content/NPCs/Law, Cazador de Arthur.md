@@ -43,50 +43,5 @@ Sigiloso y meticuloso. Una vez escoge a su víctima, no descansará hasta matarl
 
 La gente teme mencionarlo, pues sus asesinatos sin dejar rastro han creado una especie de mito alrededor de su nombre.
 
-# 9. Estadísticas
-
-```statblock
-image: [[Law Cazador de Arthur.png]]
-name: Law, Cazador de Arthur
-size: Mediano
-type: Humanoide 
-alignment: Malvado
-ac: 18
-hp: Number
-hit_dice: 35+3d4
-speed: 30 pies
-stats: [8,18,16,17,8,10]
-saves:
-- Fuerza: -1, Destreza +6, Constitución +3, Inteligencia +5, Sabiduría -1
-skillsaves:
-- Acrobacias: +6, Sigilo +7
-senses: Percepción pasiva 9, visión en la oscuridad 60
-languages: Común, élfico, enano
-cr: 4
-traits:
-- name: Siervo de Arthur
-  desc: Si esta criatura está maltrecha, obtiene +1 en las tiradas de ataque y en su CD de las tiradas de salvación contra ella por cada otro esbirro de [[Arthur Larios]] en la batalla.
-- name: Primer Disparo
-  desc: Nada más comenzar el combate, Law puede realizar un ataque con su Cuchillarang contra una criatura que pueda ver o colocar un sello explosivo.
-actions:
-- name: Cuchillarang de Asesino
-  desc: _Ataque de arma a distancia:_ +6 al ataque, 50 pies, un objetivo. _Impacto:_ 1 (1d6+4) puntos de daño cortante + 1 (1d4) puntos de daño necrótico. El daño que inflige Law con este ataque aumenta en 2d6 puntos de daño cortante si tiene ventaja en la tirada o si la criatura objetivo tiene una criatura hostil a 5 pies de ella.
-- name: Sello Explosivo
-  desc: Law coloca un sello mágico invisible en un espacio desocupado a 50 pies que pueda ver. Cuando una criatura hostil atraviesa el espacio debe realizar una tirada de salvación de Destreza CD 14 con éxito o recibe 1 (2d6) puntos de daño de fuerza.
-- name: Escabullirse
-  desc: Law realiza una tirada de Sigilo CD 14, la cual no puede tener desventaja. Si tiene éxito, se desvanece a los ojos del resto de criaturas. Cuando reciba daño o realiza una acción, vuelve a ser visible.
-- name: Barril Sellado (1/combate) &nbsp; <input type="checkbox">
-  desc: Law coloca su barril en un espacio desocupado a 5 pies de él. El barril tiene una Clase de Armadura de 10 y 10 puntos de golpe. Si el barril es destruido, se activa un sello en su interior y todas las criaturas a 20 pies de él deben realizar una tirada de Fuerza con éxito o son absorbidos por el sello. Las criaturas absorbidas vuelven a aparecer al comienzo de la próxima ronda en el espacio desocupado más cercano al barril destruido que elijan.
-bonus_actions:
-- name: Sello Trampa
-  desc: Law coloca un sello mágico a los pies de una criatura que pueda ver. El daño de los ataques con su Cuchillarang que realice contra una criatura que esté pisando uno de estos sellos aumenta en 2d6 puntos de daño cortante.
-- name: Sello Prohibido (1/combate) &nbsp; <input type="checkbox">
-  desc: Law coloca un sello mágico en su pecho, potenciándose de forma peligrosa. Sus puntos de golpe se reducen a 1 y sus ataques y trampas causan 3d4 de daño de fuerza extra.
-```
-# 10. Recompesas 
-
-- 1 tirada de loot especial.
-- [[Anticipación de Law]] (Si Law abate a alguien).
-
 ![[Law Cazador de Arthur.png]]
 ![[Law Sellado.png]]
