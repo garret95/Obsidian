@@ -1,0 +1,4 @@
+- Una vez por descanso largo, como acción adicional, puedes activar la balanza. Para ello, debe haber sangre de dos criaturas distintas en sus platillos.
+- Las criaturas cuya sangre contenga la balanza quedan vinculadas por su magia, haciendo que puedan usar sus sentidos y los de la otra criatura vinculada simultáneamente.
+- Cuando una de las dos criaturas reciba daño, el daño total se reduce a la mitad y la otra criatura vinculada recibe el resto del daño.
+- El efecto de la balanza persiste hasta que una de las criaturas muera o hasta que se vuelva a poner sangre distinta en uno de los platillos.

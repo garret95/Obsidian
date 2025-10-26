@@ -1,0 +1,2 @@
+- Una vez por descanso corto, puedes crear un zombi de un cadáver en buenas condiciones a 50 pies de ti que puedas ver.
+- El zombi tiene iniciativa propia y puedes darle órdenes mentalmente en su turno.

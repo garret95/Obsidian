@@ -1,9 +1,3 @@
----
-title: "Delilah"
-draft: false
-tags:
-- 
----
 ![[Delilah.png|cover hmed]]
 
 # 1. Datos
@@ -33,6 +27,8 @@ El pasado de Delilah está muy borroso desde que a alguien se le ocurrió morder
 
 Se labró cierta reputación debida a sus aptitudes físicas, aunque sus poderes druídicos desconcertaban a los pocos testigos que los presenciaban. Finalmente, el destino la empuja a conocer a un grupo de aventureros ([[Tenshi Senshi]], [[Asher Ward]], [[Mongo Jubro]]) con los que hizo migas. 
 
+En realidad, es una de las investigadoras más veteranas de [[Arthur Larios]], creadora entre otras cosas del [[vampiro alfa]]. Sacrificó sus recuerdos para participar en la profecía de su señor por orden suya.
+
 # 3. Vida Personal
 
 Su "hermano" [[Edgar]] la recuerda, aunque ella a él no. En tiempos recientes, se ha hecho amiga de [[Naya]].
@@ -51,6 +47,7 @@ Aventurera.
 - [[Garras de la Luna Sangrientra]].
 - [[Armadura de la Medianoche]].
 - [[Cáliz de la Reanimación Menor]].
+- [[Arco de Asedio]].
 
 # 6. Rasgos
 

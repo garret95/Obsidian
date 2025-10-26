@@ -50,6 +50,8 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 - [[Anillo de Protección +1]].
 - [[Saeta Azul]].
 - [[Corazón de Thulgrak]].
+- [[Cuerno de Alzamiento]].
+- [[Balanza de las Almas Gemelas]].
 
 # 6. Rasgos
 
