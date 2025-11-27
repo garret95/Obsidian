@@ -6,11 +6,11 @@
 - Clase: Druida del círculo de la luna
 - Raza: Dhampira (Semielfa)
 - Género: Mujer
-- Nivel: 8
-- Bonificador por competencia: 3
+- Nivel: 10
+- Bonificador por competencia: 4
 - Clase de Armadura: 18
-- Puntos de Golpe: 75
-- Bonificador por Competencia: 3
+- Puntos de Golpe: 83
+- Bonificador por Competencia: 4
 - Velocidad: 35
 - FUE: 8 (-1)
 - DES: 16 (+3)
@@ -39,20 +39,22 @@ Aventurera.
 
 # 5. Posesiones
 
-- 2 llaves oníricas: La [[Bestia]] y el [[Ogro]].
 - [[Cota de Escamas Salvajes]].
 - [[Agujero Portátil]].
+- [[Morfoespada]].
 - [[Circlet of Blasting]].
 - [[Mantle of Spell Resistance]].
+- [[Muñequera de Duelista]].
 - [[Garras de la Luna Sangrientra]].
 - [[Armadura de la Medianoche]].
 - [[Cáliz de la Reanimación Menor]].
 - [[Arco de Asedio]].
+- [[Ring of Mind Shielding]].
 
 # 6. Rasgos
 
 - [[Lengua Druídica]].
-- [[Forma Salvaje]] ([Transformaciones posibles, excepto enjambres](https://nivel20.com/games/dnd-5/creatures?category=beast&cr_from=0.0&cr_to=2.0&order=chal&page=3&q=&type=beast)).
+- [[Forma Salvaje]] ([Transformaciones posibles, excepto enjambres](https://nivel20.com/games/dnd-5/creatures?category=beast&cr_from=0.0&cr_to=3.0&order=challenge&q=&type=beast)).
     - [Perro Intermitente](https://nivel20.com/games/dnd-5/creatures/268-perro-intermitente).
 - [[Forma Salvaje de Combate]].
 - [[Visión en la Oscuridad]].
@@ -64,10 +66,10 @@ Aventurera.
 - [[Formas del Círculo]].
 - [[Golpe Primitivo]].
 - [[Centinela]].
-- [[Sello Mental]].
+- [[Forma Salvaje Elemental]].
 
 # 7. Conjuros
 
-- [Conjuros de Druida](https://nivel20.com/games/dnd-5/rulebooks/4-srd-5-edicion/spell_lists/5-conjuros-de-druida) (hasta nivel 4).
+- [Conjuros de Druida](https://nivel20.com/games/dnd-5/rulebooks/4-srd-5-edicion/spell_lists/5-conjuros-de-druida) (hasta nivel 5).
 
 ![[Delilah Investigadora de Arthur.png]]

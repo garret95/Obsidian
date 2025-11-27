@@ -6,10 +6,10 @@
 - Clase: Pícaro segador y guerrero caballero eco
 - Raza: Nacido del vacío (Disfraz humano)
 - Género: Hombre
-- Nivel: 8
-- Bonificador por competencia: 3
-- Clase de Armadura: 19
-- Puntos de Golpe: 73
+- Nivel: 12
+- Bonificador por competencia: 4
+- Clase de Armadura: 18
+- Puntos de Golpe: 93
 - Velocidad: 30
 - FUE: 16 (+3)
 - DES: 15 (+2)
@@ -38,28 +38,23 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 
 # 5. Posesiones
 
-- [[Anillo de la Casa Ward]].
 - [[Lanza del Desierto]].
-- Dueño de [[Plati]].
-- 3 llaves oníricas: El [[Pez]], la [[Cruz]] y la [[Calavera]].
-- [[Anillo de Resistencia al Fuego]].
+- Es dueño de un perro intermitente llamado [[Plati]] y de un perro de la muerte llamado [[Bero]].
 - [[Armadura de Asalto Heróica]].
-- [[Broche de Blindaje]].
-- [[Ring of Evasion]].
-- [[Adamantine Armor]].
-- [[Anillo de Protección +1]].
-- [[Saeta Azul]].
 - [[Corazón de Thulgrak]].
-- [[Cuerno de Alzamiento]].
 - [[Balanza de las Almas Gemelas]].
+- [[Vorpal Sword]].
+- [[Ring of Spell Turning]].
+- [[Ring of Djinni Summoning]].
+
 
 # 6. Rasgos
 
 - [[Visión en la Oscuridad Mejorada]].
 - [[Inconsecuente]].
 - [[Atracción Astral]].
-- [[Experto]] (Sigilo, Engaño).
-- [[Ataque Furtivo]]: 3d6.
+- [[Experto]] (Sigilo, Engaño, Persuasión, Percepción, Intimidación).
+- [[Ataque Furtivo]]: 4d6.
 - [[Jerga de Ladrones]].
 - [[Acción Astuta]].
 - [[Posición Privilegiada]].
@@ -76,6 +71,8 @@ Antiguo noble de la casa Ward, ahora convertido en un aventurero vengativo.
 - [[Manifestar Eco]].
 - [[Desatar Eco]] .
 - [[Guardián Implacable]].
+- [[Evasión]].
+- [[Multiataque]].
 
 ![[Asher Ward Nacido del Vacío.png]]
 ![[Eco de Asher Ward.png]]

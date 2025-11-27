@@ -1,0 +1,1 @@
+- Puedes emplear dos usos de tu Forma Salvaje a la vez para transformarte en un [elemental de aire, de tierra, de fuego o de agua](https://nivel20.com/games/dnd-5/creatures?utf8=✓&q=elemental&category=&type=&cr_from=&cr_to=&order=).

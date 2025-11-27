@@ -1,0 +1,2 @@
+Puedes esquivar ágilmente algunos efectos de área como por ejemplo el ardiente aliento de un dragón rojo o un hechizo de tormenta de hielo. 
+- Cuando estás sometido a un efecto que te permite hacer una tirada de salvación de Destreza para sufrir solo la mitad de daño, en lugar de eso no sufres ningún daño si tienes éxito en la tirada de salvación y solo la mitad de daño si fallas la tirada.
