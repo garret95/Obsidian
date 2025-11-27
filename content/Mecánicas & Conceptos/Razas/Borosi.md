@@ -1,4 +1,4 @@
-!\[\[Borosi.png|hmed]]
+![[Borosi.png|hmed]]
 Humanos que habitan en la isla de Boros. Sus gentes han ido absorbiendo, generación tras generación, una ínfima parte del poder de Gryth'Zrix, el demonio aprisionado en las entrañas de su tierra. Tradicionalmente, los hombres heredaban el don de la magia, mientras que las mujeres recibían la fortaleza física; sin embargo, en las últimas generaciones estos dones han comenzado a entremezclarse. Por costumbre, marcan su piel con tatuajes rojos y, al alcanzar la madurez, graban también su rostro con estos símbolos.
 
 * Aumento de Características: +1 Int, +2 Car/+1 Fue, +2 Des.

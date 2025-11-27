@@ -1,0 +1,1 @@
+Capital de [[Lathur]], donde gobernaba [[Morgan Larios II]] hasta su muerte. Actualmente la corona la lleva [[Urbano Larios]]. Aqui hubo multitud de problemas que los héroes se encargaron de solventar.
